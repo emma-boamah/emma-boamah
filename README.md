@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emma-boamah
 - 👀 I’m interested in software programming and software security
-- 🌱 I’ve currently learned python-django, php-laravel, c++
+- 🌱 I’m currently building with python-django, php-laravel, c++
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me : emmanuelboamah046@gmail.com
 - Project-shoutoutgh: www.shoutoutgh.com
